@@ -1,0 +1,62 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  }
+  
+  body {
+    background-color: #1176AE;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: 'Oleo Script', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  img {
+    width: 80%;
+  }
+  
+  footer{
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    position: relative;
+  }
+  
+  .footer-link {
+    color: #92D7FF;
+    font-family: 'Indie Flower', cursive;
+    margin: 0px 20px;
+    top: 10px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .footer-link:hover {
+    color: white;
+    transition: 0.5s;
+  }
+  
+  .copyright {
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1rem;
+  
+  }
+  
